@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar342&label=Profile%20views&color=0e75b6&style=flat" alt="omkar342" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar342" alt="omkar342" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/anthropic_o3" target="blank"><img src="https://img.shields.io/twitter/follow/anthropic_o3?logo=twitter&style=for-the-badge" alt="anthropic_o3" /></a> </p>
 
 - 🌱 I’m currently learning **React , React-native , Flutter & NextJS**
 
-- 💬 Ask me about **Fronted-End Web Development**
+- 💬 Ask me about **Fronted-end Web Development**
 
 - 📫 How to reach me **omkarjadhav095@gmail.com**
 
