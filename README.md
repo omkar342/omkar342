@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href=""https://www.linkedin.com/in/omkar-jadhav-7809b7196/>Omkar</a> </h1>
-<h3 align="center">A passionate Web and App developer from Earth</h3>
+<h3 align="center">A passionate Web and App developer from The Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar342&label=Profile%20views&color=0e75b6&style=flat" alt="omkar342" /> </p>
 
