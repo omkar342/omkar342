@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omkarjadhav095@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GlghinEbHtfEC-ZBfHLBhzpCsW64BF8Z0eu251v_MHo/edit?usp=sharing](https://docs.google.com/document/d/1GlghinEbHtfEC-ZBfHLBhzpCsW64BF8Z0eu251v_MHo/edit?usp=sharing)
+- 📄 Know about me & my experiences [Resume](https://docs.google.com/document/d/1GlghinEbHtfEC-ZBfHLBhzpCsW64BF8Z0eu251v_MHo/edit?usp=sharing)
 
 - ⚡ Fun fact **It is legal to go to 2nd page of google.**
 
