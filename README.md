@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React , React-native , Flutter & NextJS**
 
-- 💬 Ask me about **Fronted-end Web Development**
+- 💬 Ask me about **C++ , Web Development , SQL , MongoDB , NodeJS**
 
 - 📫 How to reach me **omkarjadhav095@gmail.com**
 
