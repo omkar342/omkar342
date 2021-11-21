@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **omkarjadhav095@gmail.com**
 
-- 📄 Know about me & my experiences [**Resume**](https://docs.google.com/document/d/1GlghinEbHtfEC-ZBfHLBhzpCsW64BF8Z0eu251v_MHo/edit?usp=sharing)
+- 👨🏻‍💻 Check out my Portfolio Website here : [**Portfolio**](https://omkar-portfolio-f1571.web.app/about)
+
+- 📄 Know about me & my experiences in my [**Resume**](https://docs.google.com/document/d/1GlghinEbHtfEC-ZBfHLBhzpCsW64BF8Z0eu251v_MHo/edit?usp=sharing)
 
 - ⚡ Fun fact **It is legal to go to 2nd page of google.**
-
-- 👨🏻‍💻 Check out my Portfolio Website here : [**Portfolio**](https://omkar-portfolio-f1571.web.app/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
