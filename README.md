@@ -17,7 +17,7 @@
 
 - 📄 Know about me & my experiences in my [**Resume**](https://drive.google.com/file/d/1ZBzUmup4JwQRWzmFhiSS_STATDq9mC-B/view)
 
-- ⚡ Fun fact **It is legal to go to 2nd page of google.**
+- ⚡ Fun fact: **It is legal to go to 2nd page of google.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
