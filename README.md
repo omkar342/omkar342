@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anthropic_o3" target="blank"><img src="https://img.shields.io/twitter/follow/anthropic_o3?logo=twitter&style=for-the-badge" alt="anthropic_o3" /></a> </p>
 
-- 🌱 I’m currently learning **React , React-native , Flutter & NextJS**
+- 🌱 Expert in **React , React-native , Flutter & NextJS**
 
 - 💬 Ask me about **C++ , Web Development , SQL , MongoDB , NodeJS**
 
@@ -15,7 +15,7 @@
 
 - 👨🏻‍💻 Check out my Portfolio Website here : [**Portfolio**](https://omkar-portfolio-f1571.web.app/about)
 
-- 📄 Know about me & my experiences in my [**Resume**](https://docs.google.com/document/d/1GlghinEbHtfEC-ZBfHLBhzpCsW64BF8Z0eu251v_MHo/edit?usp=sharing)
+- 📄 Know about me & my experiences in my [**Resume**](https://drive.google.com/file/d/1ZBzUmup4JwQRWzmFhiSS_STATDq9mC-B/view)
 
 - ⚡ Fun fact **It is legal to go to 2nd page of google.**
 
