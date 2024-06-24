@@ -27,8 +27,8 @@
     <li><a href="https://github.com/omkar342/talk-a-tive-backend" style="font-weight: bold;">WhatsApp Clone (Backend)</a> - This is a nodejs / expressjs backend of WhatsApp clone project.</li>
     <li><a href="https://github.com/omkar342/V-Duo" style="font-weight: bold;">V-Duo</a> - Built with React.js for the frontend, Socket.io for the backend, providing seamless video communication in real-time.</li>
     <li><a href="https://github.com/omkar342/Nutirition-Tracker-App" style="font-weight: bold;">Nutirition Tracker App</a> - Nutrition Tracker App helps users monitor daily food intake, track nutritional values, and achieve health goals effectively.</li>
-    <li><a href="https://github.com/omkar342/Cowin-Clone" style="font-weight: bold;">Cowin Clone</a> - A web application to find COVID-19 vaccine slots at nearby hospitals by searching with a pincode. [<a href="http://cowin-19-4bebb.web.app/">Live</a>]</li>
-    <li><a href="https://github.com/omkar342/Meeting-Management-System" style="font-weight: bold;">Meeting Management System</a> - This is a meeting management website which helps you to schedule a meeting for your students.</li>
+    <li><a href="https://github.com/omkar342/Cowin-Clone" style="font-weight: bold;">Cowin Clone</a> - A web application to find COVID-19 vaccine slots at nearby hospitals by searching with a pin code. [<a href="http://cowin-19-4bebb.web.app/">Live</a>]</li>
+    <li><a href="https://github.com/omkar342/Meeting-Management-System" style="font-weight: bold;">Meeting Management System</a> - This is a meeting management website that helps you to schedule a meeting for your students.</li>
   </ul>
 </p>
 
@@ -36,17 +36,17 @@
 <p>
   <ul>
     <li><a href="https://github.com/omkar342/Blockchain-Using-TypeScript-" style="font-weight: bold;">Blockchain Using TypeScript</a> - This project aims to demonstrate how a blockchain works at a fundamental level by building a simple blockchain using TypeScript. It will show how blocks are connected to each other in the chain using hash values.</li>
-    <li><a href="https://github.com/omkar342/EthSender" style="font-weight: bold;">EthSender</a> - A sleek ReactJS web app enabling easy MetaMask wallet integration. Effortlessly send Ethereum by specifying recipient's account and desired amount, streamlining secure cryptocurrency transactions.</li>
-    <li><a href="https://github.com/omkar342/blockchain-project2" style="font-weight: bold;">Ethsender (Smart Contract)</a> - This is a Smart Contract of sleek ReactJS web app enabling easy MetaMask wallet integration. Effortlessly send Ethereum by specifying recipient's account and desired amount, streamlining secure cryptocurrency transactions.</li>
+    <li><a href="https://github.com/omkar342/EthSender" style="font-weight: bold;">EthSender</a> - A sleek ReactJS web app enabling easy MetaMask wallet integration. Effortlessly send Ethereum by specifying the recipient's account and desired amount, streamlining secure cryptocurrency transactions.</li>
+    <li><a href="https://github.com/omkar342/Ethsender-Smart-Contract" style="font-weight: bold;">Ethsender (Smart Contract)</a> - This is a Smart Contract of sleek ReactJS web app enabling easy MetaMask wallet integration. Effortlessly send Ethereum by specifying the recipient's account and desired amount, streamlining secure cryptocurrency transactions.</li>
     <li><a href="https://github.com/omkar342/Event-Organization-System" style="font-weight: bold;">Event-Organization-System</a> - This Solidity contract allows users to create events, buy tickets for events, and transfer tickets to other users. The contract uses the Ethereum Network (Test Network) to store and manage events and tickets.</li>
-    <li><a href="https://github.com/omkar342/Lottery-System" style="font-weight: bold;">Lottery-System</a> - It's a ethereum smart contract for creation of transparent and fair lottery system using Solidity.</li>
+    <li><a href="https://github.com/omkar342/Lottery-System" style="font-weight: bold;">Lottery-System</a> - It's a Ethereum smart contract for the creation of a transparent and fair lottery system using Solidity.</li>
   </ul>
 </p>
 
 <h3 align="left">Browser & VS-code Extensions:-</h3>
 <p>
   <ul>
-    <li><a href="https://github.com/omkar342/blockchain-project1" style="font-weight: bold;">News Tab</a> - A browser extension that brings global news to your new tab, helping you stay informed with news that interests you. [<a href="https://microsoftedge.microsoft.com/addons/detail/news-tab/anchgkkmjjfccdpcihekalfallhciohi">Live</a>]</li>
+    <li><a href="https://github.com/omkar342/New-s-Tab" style="font-weight: bold;">News Tab</a> - A browser extension that brings global news to your new tab, helping you stay informed with news that interests you. [<a href="https://microsoftedge.microsoft.com/addons/detail/news-tab/anchgkkmjjfccdpcihekalfallhciohi">Live</a>]</li>
     <li><a href="https://github.com/omkar342/Snippy" style="font-weight: bold;">Snippy</a> - This is a VS Code extension to get HTML & JavaScript snippet shortcuts.</li>
     <li><a href="https://github.com/omkar342/Copy_Selected_Text" style="font-weight: bold;">Copy Selected Text</a> - This is a VS Code extension project where you can copy selected text using this VS Code extension, using commands.</li>
   </ul>
