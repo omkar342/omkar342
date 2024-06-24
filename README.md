@@ -1,4 +1,5 @@
-<h1 align="center">Welcome 🙏 to <a href="https://omkar-portfolio-f1571.web.app/"/>Omkar's</a> github profile! </h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
+<h2 align="center">👋 Hello! I'm <a href="https://omkar-portfolio-f1571.web.app/"/>Omkar's</a></h2>
 <h3 align="center">A passionate Web and App developer from The Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar342&label=Profile%20views&color=0e75b6&style=flat" alt="omkar342" /> </p>
