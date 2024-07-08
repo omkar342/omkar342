@@ -25,7 +25,7 @@
   <ul>
     <li><a href="https://github.com/omkar342/WhatApp-Clone-Talk-a-Tive-" style="font-weight: bold;">WhatsApp Clone</a> - A replica of WhatsApp, enabling real-time messaging, media sharing, and group chats with a familiar interface.</li>
     <li><a href="https://github.com/omkar342/talk-a-tive-backend" style="font-weight: bold;">WhatsApp Clone (Backend)</a> - This is a nodejs / expressjs backend of WhatsApp clone project.</li>
-    <li><a href="https://github.com/omkar342/V-Duo" style="font-weight: bold;">V-Duo</a> - Seamless, real-time video chatting app, built with React.js for the frontend, Socket.io for the backend, providing </li>
+    <li><a href="https://github.com/omkar342/V-Duo" style="font-weight: bold;">V-Duo</a> - Seamless, real-time video chatting app, built with React.js for the frontend, Socket.io for the backend.</li>
     <li><a href="https://github.com/omkar342/Nutirition-Tracker-App" style="font-weight: bold;">Nutirition Tracker App</a> - Nutrition Tracker App helps users monitor daily food intake, track nutritional values, and achieve health goals effectively.</li>
     <li><a href="https://github.com/omkar342/Cowin-Clone" style="font-weight: bold;">Cowin Clone</a> - A web application to find COVID-19 vaccine slots at nearby hospitals by searching with a pin code. [<a href="http://cowin-19-4bebb.web.app/">Live</a>]</li>
     <li><a href="https://github.com/omkar342/Meeting-Management-System" style="font-weight: bold;">Meeting Management System</a> - This is a meeting management website that helps you to schedule a meeting for your students.</li>
